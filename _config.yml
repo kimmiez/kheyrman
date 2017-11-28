@@ -9,8 +9,8 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en"
-title                    : "kheyrman"
-title_separator          : "-"
+title                    : "kheyrman - All About Deployments"
+title_separator          : "- focuses on"
 name                     : "Kim Heyrman"
 description              : "All About Deployments."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

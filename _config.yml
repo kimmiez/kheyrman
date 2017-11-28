@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en"
-title                    : "Kheyrman - All About Deployments"
+title                    : "All About Deployments & Stuff"
 title_separator          : "-"
 name                     : "Kim Heyrman"
 description              : "All About Deployments."

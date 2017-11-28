@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Kim Heyrman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Trying to find my place in the wonderful world of ConfigMgr."
+  bio              : "Trying to find my place in the wonderful world of #ConfigMgr."
   location         : "Belgium"
   email            : 
   uri              :

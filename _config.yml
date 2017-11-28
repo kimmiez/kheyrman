@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en"
-title                    : "kheyrman - All About Deployments"
-title_separator          : "- focuses on"
+title                    : "Kheyrman - All About Deployments"
+title_separator          : "-"
 name                     : "Kim Heyrman"
 description              : "All About Deployments."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.kheyrman.be"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -60,7 +60,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : kimmiez_h
 facebook:
   username               :
   app_id                 :
@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Kim Heyrman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Trying to find my place in the wonderful world of ConfigMgr & MDT."
+  location         : "Belgium"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/kimmiez_h
   vine             :
   weibo            :
   xing             :
